@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshot\active.png)
-![](screenshot\desktop.png)
-![](screenshot\mobile.png)
+![](screenshot/active.png)
+![](screenshot/desktop.png)
+![](screenshot/mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://poseidon0211-hub.github.io/nft-preview-card-component-main/{:target="_blank"})
 
 ## My process
 
