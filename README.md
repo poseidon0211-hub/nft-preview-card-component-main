@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site](https://poseidon0211-hub.github.io/nft-preview-card-component-main/{target="_blank"})
+- Live Site URL: [live site](https://poseidon0211-hub.github.io/nft-preview-card-component-main/){target="_blank"}
 
 ## My process
 
