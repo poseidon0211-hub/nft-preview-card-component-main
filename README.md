@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://poseidon0211-hub.github.io/nft-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
-- Live Site URL: <a href="https://silly-fenglisu-42439c.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
+- Live Site URL: <a href="https://gregarious-valkyrie-14024b.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
@@ -44,7 +44,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Visual Studio Code
 
 
 ### What I learned
@@ -57,11 +56,11 @@ Users should be able to:
 
 ### Useful resources
 
-- [CSS Media Queries ](https://css-tricks.com/a-complete-guide-to-css-media-queries/)- Extremely guide to media queries
+- CSS Media Queries - <a href="https://css-tricks.com/a-complete-guide-to-css-media-queries/" target="_blank" rel="noreferrer"> Extremely guide to media queries</a>
 
 ## Author
 
-- Frontend Mentor - [@poseidon0211-hub](https://www.frontendmentor.io/poseidon0211-hub)
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/poseidon0211-hub" target="_blank" rel="noreferrer">@poseidon0211-hub</a>
 
 ## Acknowledgments
 
