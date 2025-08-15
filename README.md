@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site](https://poseidon0211-hub.github.io/nft-preview-card-component-main/){target="_blank"}
+- Solution URL: <a href="https://poseidon0211-hub.github.io/nft-preview-card-component-main/" target="_blank" rel="noreferrer"> Solution </a>
+- Live Site URL: <a href="https://silly-fenglisu-42439c.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
