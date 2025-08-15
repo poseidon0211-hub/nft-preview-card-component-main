@@ -1,14 +1,13 @@
 body{
     font-size: 18px;
     font-family: 'Outfit', sans-serif;
+    background-color:hsl(217, 54%, 11%) ;
+    color: hsl(215, 51%, 70%);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color:hsl(217, 54%, 11%) ;
-    color: hsl(215, 51%, 70%);
- 
 }
 
 .container{
@@ -21,7 +20,6 @@ body{
     overflow: hidden;
 }
 
-
 .image-wrapper{
     position: relative;
     display: block;
@@ -31,13 +29,11 @@ body{
 
 .image-wrapper:hover .view-icon{
     opacity: 1;
-
 }
-
 
 .equilibrium{
     max-width: 100%;
-    border-radius: 10pt;
+    border-radius: 10px;
     height: auto;
     display: block;
 }
@@ -56,7 +52,6 @@ body{
     opacity: 0;
     transition: opacity 0.3s ease;
 }
-
 
 .view-icon:hover{
     opacity: 1;
@@ -81,7 +76,6 @@ body{
     cursor: pointer;
 }
 
-
 .description{
     font-size: 20px;
     font-weight: 400;
@@ -96,8 +90,6 @@ body{
     margin-top: 10px;
 }
 
-
-
 .price{
    color:hsl(178, 100%, 50%) ; 
    font-weight: 600;
@@ -110,8 +102,7 @@ body{
    color: hsl(215, 51%, 70%);
    display: flex;
    align-items: center;
-   gap: 8px;
-   
+   gap: 8px; 
 }
 
 .card-divider {
@@ -121,14 +112,12 @@ body{
     margin-bottom: 12px; 
 }
 
-
 .footer{
    display: flex;
    align-items: center;
    gap: 16px;
    font-weight: 600;
    letter-spacing: 0.5px;
-   
 }
 
 .footer img{
@@ -136,7 +125,6 @@ body{
  height: 40px;
  border-radius: 50%;
  border: 1px solid hsl(0, 0%, 100%);
- 
 }
 
 .author{
@@ -144,15 +132,11 @@ body{
   text-decoration: none;
 }
 
-
-
 .author:hover,
 .author:focus{
   color: hsl(178, 100%, 50%) ;
   cursor: pointer;
-  
 }
-
 
 @media (min-width: 375px) {
     .container {
