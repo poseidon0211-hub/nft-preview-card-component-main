@@ -1,0 +1,150 @@
+body{
+    font-size: 18px;
+    background-color:hsl(217, 54%, 11%) ;
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+}
+
+.nft-card-container{
+    display: grid;
+    place-items:  center;
+    min-height: 100vh;
+    width: 100%;
+}
+
+.card-wrapper{
+    max-width: 450px; 
+    border-radius: 20px;
+    text-align: center;
+    background-color: hsl(216, 50%, 16%);
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.image-wrapper{
+    position: relative;
+    height: auto;
+    cursor: pointer;
+}
+
+.image-wrapper:hover .view-icon{
+    opacity: 1;
+}
+
+.image{
+    max-width: 100%;
+    border-radius: 10px;
+    height: auto;
+    display: block;   
+}
+
+.view-icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    background-color: hsla(178, 100%, 50%, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.view-icon:hover{
+    opacity: 1;
+}
+
+.card-content{
+    width: 100%;
+    text-align: start;
+    margin-top: 30px;
+    gap: 16px;
+}
+
+.title{
+    font-size: 24px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.title:hover{
+    color: hsl(178, 100%, 50%) ;
+    cursor: pointer;
+}
+
+.description{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: hsl(215, 51%, 70%);
+}
+
+.spanner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.price{
+   color:hsl(178, 100%, 50%) ; 
+   font-weight: 600;
+   display: flex;
+   align-items: center;
+   gap: 8px;
+}
+
+.time{
+   color: hsl(215, 51%, 70%);
+   display: flex;
+   align-items: center;
+   gap: 8px; 
+}
+
+.card-divider {
+    border: none;
+    border-top: 1px solid hsl(215, 32%, 27%); 
+    margin-top: 30px;
+    margin-bottom: 12px; 
+}
+
+.footer{
+   display: flex;
+   align-items: center;
+   gap: 16px;
+   font-weight: 600;
+   letter-spacing: 0.5px;
+   font-size: 20px;
+   letter-spacing: 1px;
+}
+
+.footer img{
+ width: 40px;
+ height: 40px;
+ border-radius: 50%;
+ border: 1px solid hsl(0, 0%, 100%);
+ 
+}
+
+.author{
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
+
+.author:hover,
+.author:focus{
+  color: hsl(178, 100%, 50%) ;
+  cursor: pointer;
+  
+}
+
+@media (min-width: 375px) {
+    .container {
+        max-width: 350px; 
+    }
+  }  
