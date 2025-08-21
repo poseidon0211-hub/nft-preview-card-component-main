@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: <a href="https://poseidon0211-hub.github.io/single-price-grid-component-master/" target="_blank" rel="noreferrer"> Solution </a>
+- Live Site URL: <a href="https://nft-preview-carrd.netlify.app/" target="_blank" rel="noreferrer">Live Site </a>
 
 ## My process
 
